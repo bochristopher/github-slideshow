@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+A wise man once said,"don't pee into the wind" 
 Use the left arrow to go back!
